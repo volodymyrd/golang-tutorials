@@ -1,3 +1,4 @@
+// export PATH=$(go env GOPATH)/bin:$PATH
 // https://github.com/swaggo/gin-swagger
 package main
 
